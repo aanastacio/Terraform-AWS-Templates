@@ -2,7 +2,7 @@
 Terraform AWS Templates
 
 
-# This template will Luch the following AWS Resources:
+# This template will lunch the following AWS Resources:
 
 #1-VPC
 #2-Internet Gateway
